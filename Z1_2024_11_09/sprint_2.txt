@@ -1,0 +1,1 @@
+Developer{ime=Ime1, prezime=Prezime1, godineRada=3, trajanjeRada=1s}:[paket.Zadatak@3b5739be]
