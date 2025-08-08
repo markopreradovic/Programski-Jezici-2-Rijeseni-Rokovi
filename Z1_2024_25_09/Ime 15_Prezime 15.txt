@@ -1,0 +1,1 @@
+Otkazana sauna jer nema kupon, kupon=false
