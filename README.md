@@ -12,4 +12,4 @@
 
 ###2024.24.04
   - Zadatak 1 - Simulacija sistema za biblioteku. Matrica knjiga,
-  - 
+  - Zadatak 2 - 
